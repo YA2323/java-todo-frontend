@@ -7,7 +7,6 @@ import java.util.Map;
 
 //@Repository
 public class DataRepo {
-
     Map<Integer, Data> datas = new HashMap<>();
 
     public void addData(Data data){
